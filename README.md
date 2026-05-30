@@ -25,17 +25,6 @@
 
 This repository contains a full-stack **Netflix Clone** built using **React**, **TypeScript**, **Redux Toolkit**, and **Material UI (MUI)**, integrated with a complete, enterprise-grade **DevSecOps CI/CD pipeline**. The application is containerized, scanned at multiple levels for security vulnerabilities, deployed to a **Kubernetes** cluster (AWS EKS), monitored using **Prometheus & Grafana**, and managed via GitOps with **ArgoCD**.
 
----
-
-## 📽️ Step-by-Step Video Tutorial
-For a complete visual walkthrough and live demonstration, check out the tutorial on YouTube:
-
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
-
-> [!TIP]
-> Subscribe to the [CloudChamp YouTube Channel](https://www.youtube.com/@cloudchamp?sub_confirmation=1) for more tutorials on DevOps, DevSecOps, and Cloud Computing.
-
----
 
 ## 🛡️ DevSecOps Pipeline Architecture
 
